@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+  h1 {
+    color: red;
+    margin: 5px;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+img {
+    align-items: center;
+    margin-left: 32px;
+}
+
+button {
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    width: 100px;
+    height: 28px; 
+}
+
+a {
+    color: white;
+}
+
+.lista-links {
+    border-radius: 5px;
+    border: 0;
+    color:red;
+    padding: 5px 20px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbar {
+    background-color: black;
+}
+
+Footer {
+    color:white;
+    background-color: black;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 10px;
+}
+
+.fotos-dojo {
+    margin-top: 10px;
+    color: black;
+}
+
+.angelica {
+    width: 93.8vw;
+}
+
+.hist {
+    text-align: center;
+}
+
+
