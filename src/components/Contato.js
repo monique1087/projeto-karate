@@ -31,7 +31,7 @@ Praça da Liberdade, 262 - Liberdade, São Paulo - SP, 01503-010
                 </p>
 
             </div>
-            <Footer />
+            <footer><Footer /></footer>
         </div>
     )
 }

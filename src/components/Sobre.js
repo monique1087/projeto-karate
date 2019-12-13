@@ -18,8 +18,10 @@ function Sobre() {
                 bô (bastão)
 
                  </p>
+
             </div>
-            <Footer />
+            <footer><Footer /></footer>
+            
         </div>
     )
 }
