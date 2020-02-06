@@ -17,7 +17,7 @@ function Contato(){
 
                 <p>
                     <h3>Telefone/Celular:</h3>
-                        (11)222222/(11)9 
+                        (11)99909-2097
                 </p>
                 
                 <p>
@@ -27,7 +27,7 @@ function Contato(){
                 <p>
                     <h3>Endereço:</h3>
                     <h4>Escola Dharma:</h4>
-Praça da Liberdade, 262 - Liberdade, São Paulo - SP, 01503-010
+     Praça da Liberdade, 262 - Liberdade, São Paulo - SP, 01503-010
                 </p>
 
             </div>

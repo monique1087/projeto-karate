@@ -8,7 +8,7 @@ function Sobre() {
             <Nav />
             <div>
                  <h1 className='hist'>Um pouco sobre o Dojo</h1>
-                 <p>
+                 <p classname="sobre">
                  O estilo Sekishin Bujutsu é baseado na Filosofia Samurai, onde a disciplina, esforço, cordialidade e humildade do praticante são avaliados. Não somos um estilo competitivo, pois o nosso objetivo é formar pessoas aptas a contribuir com a sociedade através da prática dos ensinamentos de Shihan Moriyama.
 
                 Os treinos são elaborados para a melhoria do condicionamento físico e mental, além da melhoria da percepção, 

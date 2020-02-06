@@ -16,12 +16,12 @@ function Home(){
         <Nav />
             <h1 className='fotos-dojo'>Fotos do Dojo</h1>
             <div>
-                <img className="angelica" src={Imagem} alt="mulher fazendo um golpe que se chama hizaguiri"/>
-                <img src={Imagem2} alt="crianca fazendo golpes"/>
-                <img src={Imagem3} alt="chave de braço"/>
-                <img src={Imagem4} alt='chave de perna'/>
-                <img src={Imagem5} alt='mostra de luta com espada de madeira'/>
-                <img src={Imagem6} alt='papel de honra recebido'/>
+                <img className="photos" src={Imagem} alt="mulher fazendo um golpe que se chama hizaguiri"/>
+                <img className="photos" src={Imagem2} alt="crianca fazendo golpes"/>
+                <img className="photos" src={Imagem3} alt="chave de braço"/>
+                <img className="photos" src={Imagem4} alt='chave de perna'/>
+                <img className="photos" src={Imagem5} alt='mostra de luta com espada de madeira'/>
+                <img className="photos" src={Imagem6} alt='papel de honra recebido'/>
             </div>
             <Footer />
     </div>

@@ -12,23 +12,27 @@ function Nav(){
 
             <ul className='lista-links'>
             <li>
+
                 <button>
-                    <Link to='/' className='home'>
+                    <Link to='/' className='b-home'>
                         Home
                     </Link>
                 </button>
+
             </li>
             <li>
+
                 <button>
-                    <Link to='/sobre' className='sobre'>
+                    <Link to='/sobre' className='b-sobre'>
                     Sobre
                     </Link>
                 </button>
                 
             </li>
             <li>
+                
                 <button>
-                    <Link to='/contato' className='contato'>
+                    <Link to='/contato' className='b-contato'>
                         Contato
                     </Link>
                 </button>
